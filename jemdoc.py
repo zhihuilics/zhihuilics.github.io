@@ -256,7 +256,7 @@ def standardconf():
   Page generated |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 
   [sourcelink]
-  (<a href="|">source</a>)
+  (<a href="|">source</a>) <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=Cvjg-O4-X5Wb_Abs7ECO796Q-fNCRTkk_zHw2dHPfWQ&cl=ffffff&w=a"></script>
 
   """
   b = ''

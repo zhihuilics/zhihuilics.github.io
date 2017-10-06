@@ -137,6 +137,7 @@ def standardconf():
   <head>
   <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta rel="icon" href="/images/favicon.png" type="image/x-icon">
   
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />

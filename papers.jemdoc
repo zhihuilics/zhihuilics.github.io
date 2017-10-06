@@ -14,11 +14,13 @@
 . Jingjing Li, Ke Lu, Lei Zhu, and *\Zhihui Li*\. /Locality-Constrained Transfer Coding for Heterogeneous Domain Adaptation/. Australasian Database Conference 2017: 193-204. [https://link.springer.com/content/pdf/10.1007%2F978-3-319-68155-9_15.pdf \[pdf\]]
 . Luyao Liu, Lei Zhu, and *\Zhihui Li*\. /Learning Robust Graph Hashing for Efficient Similarity Search/. Australasian Database Conference 2017: 110-122. [https://link.springer.com/content/pdf/10.1007%2F978-3-319-68155-9_9.pdf \[pdf\]]
 
+== Preprints
+. De Cheng, Yihong Gong, *\Zhihui Li*\, Weiwei Shi, Alexander G. Hauptmann, and Nanning Zheng. /Deep Feature Learning via Structured Graph Laplacian Embedding for Person Re-Identification/. ArXiv:1707.07791, 2017. [https://arxiv.org/pdf/1707.07791.pdf \[pdf\]] 
+
 # == Preprints
 # . *\Zhihui Li*\, Xiaojun Chang, Zhigang Ma, Fei Wu, and Yi Yang. /Active Video Hashing via Structure Information Learning/. \[Submitted to IEEE Transactions on Cybernetics, 2017\]
 # . *\Zhihui Li*\, Feiping Nie, Xiaojun Chang, Zhigang Ma, and Yi Yang. /Balanced Clustering via Exclusive Lasso: A Pragmatic Approach/. \[Submitted to AAAI 2018\]
 # . *\Zhihui Li*\, Lina Yao, Feiping Nie, Dingwen Zhang, and Min Xu. /Multi-rate Gated Recurrent Convolutional Neural Networks for Video-Based Pedestrian Re-Identification/. \[Submitted to AAAI 2018\]
-# . De Cheng, Yihong Gong, *\Zhihui Li*\, Weiwei Shi, Alexander G. Hauptmann, and Nanning Zheng. /Deep Feature Learning via Structured Graph Laplacian Embedding for Person Re-Identification/. ArXiv:1707.07791, 2017. [https://arxiv.org/pdf/1707.07791.pdf \[pdf\]] 
 # . Lingling Zhang, Minnan Luo, Feiping Nie, *\Zhihui Li*\, Jun Liu, and Qinghua Zheng. /Large Scale Robust Semi-supervised Classification/. \[Submitted to IEEE Transactions on Cybernetics, 2017\]
 # . Zhiqiang Zeng, *\Zhihui Li*\, De Cheng, Zhigang Ma, Kun Zhan, and Yi Yang. /Two-Stream Multi-Rate Recurrent Neural Network for Video-Based Pedestrian Re-Identification/. \[Submitted to IEEE Transactions on Industrial Informatics, 2017\]
 # . De Cheng, Yihong Gong, Dingwen Zhang, *\Zhihui Li*\, and Nanning Zheng. /A Person Re-Id Fusion Method with Base Methods-Aware and Data-Aware Abilities/. 

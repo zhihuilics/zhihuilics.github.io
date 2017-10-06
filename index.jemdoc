@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+# jemdoc: addpackage{color}
+== Zhihui Li -- Homepage 
+
+~~~
+{}{img_left}{images/zhihui.jpg}{Zhihui Li}{105}{134}{}
+Greetings! I received the B.S. degree from Beijing University of Posts and Telecommunications in 2008. After that, I have been working as a Data Analyst in Beijing Etrol Technologies Co., Ltd. My research interests include artificial intelligence, machine learning, and computer vision. I have pulished more than 10 technical papers at prominent journals and conferences such as IEEE TKDE, IEEE TCYB, CVIU, ADC, etc.
+
+[https://scholar.google.com/citations?hl=en&user=GtlF144AAAAJ \[Google Scholar\]]
+
+~~~
+
+
+== Contact
+~~~~
+{}{img_left}{images/word_cloud.png}{Word Cloud}{320}{200}{}
+
+{{<img src="images/name.png" width=65>}}
+
+Mail Adress: 
+
+NO.6 Building No.9 Dijin Road,
+Haidian District, Beijing
+
+Email: 
+{{<img src="images/email.png" width=200>}}
+
+[https://zhihuilics.github.io/]
+~~~
